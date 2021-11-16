@@ -545,7 +545,7 @@ body {
   text-align: center;
 }
 
-@media screen and(min-height:375px) {
+@media screen and(min-width:375px) {
   .banner__costs {
     margin-top: 80px;
   }
@@ -594,7 +594,7 @@ body {
   }
 }
 
-@media screen and(min-height:414px) {
+@media screen and(min-width:414px) {
   .banner__costs {
     margin-top: 100px;
   }
