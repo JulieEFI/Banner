@@ -650,6 +650,15 @@ body {
   .banner__btn {
     margin-top: 35px;
     & button {
+      width: 335px;
+    }
+  }
+}
+
+@media screen and(min-width:414px) {
+  .banner__btn {
+    margin-top: 35px;
+    & button {
       width: 374px;
     }
   }
