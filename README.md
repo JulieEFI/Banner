@@ -1,1 +1,1 @@
-https://julieefi.github.io/Banner/
+https://julieefi.github.io/Banner/app
