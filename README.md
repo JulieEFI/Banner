@@ -1,4 +1,4 @@
-https://julieefi.github.io/Banner/dist
+https://julieefi.github.io/Banner/app
 
 For phones only.
 
